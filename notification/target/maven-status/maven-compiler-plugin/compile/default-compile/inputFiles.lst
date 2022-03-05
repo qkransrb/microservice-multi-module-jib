@@ -1,0 +1,7 @@
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/NotificationApplication.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/Notification.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/NotificationController.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/NotificationConfig.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/NotificationRepository.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/NotificationService.java
+/Users/qkransrb/Desktop/microservices/notification/src/main/java/com/amigoscode/notification/rabbitmq/NotificationConsumer.java
